@@ -1,57 +1,57 @@
 [{
-   "host": "dnrr0101",
-   "partner": "dnrr0102"
+   "host": "rr0101",
+   "partner": "rr0102"
 }, {
-   "host": "dnre0101",
-   "partner": "dnre0102",
-   "parent": "dnrr0101",
+   "host": "re0101",
+   "partner": "re0102",
+   "parent": "rr0101",
    "parentPort": "1/0/1"
 }, {
-   "host": "dnre0103",
-   "partner": "dnre0104",
-   "parent": "dnrr0101",
+   "host": "re0103",
+   "partner": "re0104",
+   "parent": "rr0101",
    "parentPort": "1/0/2"
 }, {
-   "host": "dnre0105",
-   "partner": "dnre0106",
-   "parent": "dnrr0101",
+   "host": "re0105",
+   "partner": "re0106",
+   "parent": "rr0101",
    "parentPort": "1/2/1"
 }, {
-   "host": "dnre0201",
-   "partner": "dnre0202",
-   "parent": "dnre0105",
+   "host": "re0201",
+   "partner": "re0202",
+   "parent": "re0105",
    "parentPort": "0/1"
 }, {
-   "host": "dnce0101",
-   "partner": "dnce0102",
-   "parent": "dnre0101",
+   "host": "ce0101",
+   "partner": "ce0102",
+   "parent": "re0101",
    "parentPort": "0/1"
 }, {
-   "host": "dnce0103",
-   "partner": "dnce0104",
-   "parent": "dnre0101",
+   "host": "ce0103",
+   "partner": "ce0104",
+   "parent": "re0101",
    "parentPort": "0/2"
 }, {
-   "host": "dnce0111",
-   "partner": "dnce0112",
-   "parent": "dnre0103",
+   "host": "ce0111",
+   "partner": "ce0112",
+   "parent": "re0103",
    "parentPort": "0/1"
 }, {
-   "host": "dnce0113",
-   "parent": "dnre0103",
+   "host": "ce0113",
+   "parent": "re0103",
    "parentPort": "0/2"
 }, {
-   "host": "dnce0121",
-   "partner": "dnce0122",
-   "parent": "dnre0201",
+   "host": "ce0121",
+   "partner": "ce0122",
+   "parent": "re0201",
    "parentPort": "0/1"
 }, {
-   "host": "dnce0123",
-   "partner": "dnce0124",
-   "parent": "dnre0201",
+   "host": "ce0123",
+   "partner": "ce0124",
+   "parent": "re0201",
    "parentPort": "0/2"
 }, {
-   "host": "dnce0125",
-   "parent": "dnre0201",
+   "host": "ce0125",
+   "parent": "re0201",
    "parentPort": "0/3"
 }]
